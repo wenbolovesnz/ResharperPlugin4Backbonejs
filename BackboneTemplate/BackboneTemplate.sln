@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackboneTemplate", "BackboneTemplate\BackboneTemplate\BackboneTemplate.csproj", "{BE5AEA56-2C2D-45A8-A3D3-8FD09385AE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackboneTemplate.Tests", "BackboneTemplate\BackboneTemplate.Tests\BackboneTemplate.Tests.csproj", "{81C4FFEC-DD3C-4700-846A-0A6D5F895602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5AEA56-2C2D-45A8-A3D3-8FD09385AE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5AEA56-2C2D-45A8-A3D3-8FD09385AE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5AEA56-2C2D-45A8-A3D3-8FD09385AE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5AEA56-2C2D-45A8-A3D3-8FD09385AE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C4FFEC-DD3C-4700-846A-0A6D5F895602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C4FFEC-DD3C-4700-846A-0A6D5F895602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C4FFEC-DD3C-4700-846A-0A6D5F895602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C4FFEC-DD3C-4700-846A-0A6D5F895602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
